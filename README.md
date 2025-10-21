@@ -13,6 +13,13 @@ La galería de arte "TripleTen Art Gallery" presenta historias y obras de arte v
 - Fuentes personalizadas importadas desde Google Fonts.
 - Contenido estructurado en secciones claras: encabezado, lead, introducción y pie de página.
 
+## Tecnologías Utilizadas
+
+- **HTML5**: Para la estructura del contenido.
+- **CSS3**: Para el diseño y estilos, incluyendo diseño responsivo.
+- **Google Fonts**: Para la importación de la fuente `Inter`.
+- **Metodología BEM**: Para la organización y nomenclatura de clases CSS.
+
 ## URL de acceso
 
 https://ivanalan666.github.io/web_project_homeland/index.html
