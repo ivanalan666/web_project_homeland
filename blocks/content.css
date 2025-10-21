@@ -1,4 +1,4 @@
-.main {
+.content {
   display: flex;
   flex-direction: column;
   grid-template-columns: 1fr;
@@ -6,12 +6,12 @@
   padding: 0 148px 0 148px;
 }
 @media screen and (max-width: 768px) {
-  .main {
+  .content {
     padding: 0 24px 0 24px;
   }
 }
 @media screen and (max-width: 320px) {
-  .main {
+  .content {
     padding: 0 16px 0 16px;
   }
 }
