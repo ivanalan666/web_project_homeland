@@ -22,4 +22,4 @@ La galería de arte "TripleTen Art Gallery" presenta historias y obras de arte v
 
 ## URL de acceso
 
-https://ivanalan666.github.io/web_project_homeland/index.html
+https://ivanalan666.github.io/web_project_homeland/
